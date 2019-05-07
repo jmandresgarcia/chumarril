@@ -1,1 +1,2 @@
-# chumarril
+# chumarril 
+pokemon tipo cerveza
